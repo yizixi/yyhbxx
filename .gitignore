@@ -1,0 +1,6 @@
+# mac crap
+.DS_Store
+archives/.DS_Store
+
+# WebStorm cache
+.idea/
